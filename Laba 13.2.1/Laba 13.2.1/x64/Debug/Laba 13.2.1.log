@@ -1,0 +1,5 @@
+﻿  Laba 13.2.1.cpp
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(48,8): warning C4002: too many arguments for function-like macro invocation 'MIN'
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(48,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(20,12): warning C4101: 'c': unreferenced local variable
+  Laba 13.2.1.vcxproj -> C:\C++\Student\Laba 13.2.1\x64\Debug\Laba 13.2.1.exe

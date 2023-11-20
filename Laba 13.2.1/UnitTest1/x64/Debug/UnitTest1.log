@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(48,8): warning C4002: too many arguments for function-like macro invocation 'MIN'
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(48,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\C++\Student\Laba 13.2.1\Laba 13.2.1\Laba 13.2.1.cpp(20,12): warning C4101: 'c': unreferenced local variable
+C:\C++\Student\Laba 13.2.1\UnitTest1\UnitTest1.cpp(18,17): warning C4002: too many arguments for function-like macro invocation 'MAX'
+  UnitTest1.vcxproj -> C:\C++\Student\Laba 13.2.1\x64\Debug\UnitTest1.dll
